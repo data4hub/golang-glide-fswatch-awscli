@@ -1,4 +1,5 @@
 # golang-glide-fswatch-aws-cli
+[![Build Status](https://travis-ci.org/rest4hub/golang-glide-fswatch-awscli.svg?branch=master)](https://travis-ci.org/rest4hub/golang-glide-fswatch-awscli)
 ### Golang
 go env
 ```
@@ -13,7 +14,7 @@ GORACE=""
 GOROOT="/usr/local/go"
 GOTOOLDIR="/usr/local/go/pkg/tool/linux_amd64"
 CC="gcc"
-GOGCCFLAGS="-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build101227058=/tmp/go-build -gno-record-gcc-switches"
+GOGCCFLAGS="-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build196520859=/tmp/go-build -gno-record-gcc-switches"
 CXX="g++"
 CGO_ENABLED="1"
 ```
