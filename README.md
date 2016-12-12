@@ -1,3 +1,5 @@
+# Deprecated(https://github.com/rest4hub/golang-glide/tree/fswatch-awscli)
+
 # golang-glide-fswatch-aws-cli
 [![Build Status](https://travis-ci.org/rest4hub/golang-glide-fswatch-awscli.svg?branch=master)](https://travis-ci.org/rest4hub/golang-glide-fswatch-awscli)
 ### Golang
